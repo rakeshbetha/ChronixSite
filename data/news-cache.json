@@ -1,0 +1,18 @@
+{
+  "articles": [],
+  "lastUpdated": "2025-07-07T06:57:06.544Z",
+  "totalArticles": 0,
+  "categories": {
+    "technology": 0,
+    "world": 0,
+    "health": 0,
+    "finance": 0,
+    "sports": 0,
+    "politics": 0
+  },
+  "sentiments": {
+    "positive": 0,
+    "neutral": 0,
+    "negative": 0
+  }
+}
